@@ -85,25 +85,13 @@ Currently, I work mostly around modern web applications, distributed services, e
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amirazadii&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=b7b7b7&icon_color=ffffff&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=amirazadii&show_icons=true&hide_border=true&bg_color=00000000&title_color=111111&text_color=444444&icon_color=111111&rank_icon=github" />
-  <img height="175" alt="Amir's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=amirazadii&show_icons=true&hide_border=true" />
-</picture>
+<img height="175" src="https://github-stats-extended.vercel.app/api?username=amirazadii&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Amir's GitHub stats" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amirazadii&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=b7b7b7&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amirazadii&layout=compact&hide_border=true&bg_color=00000000&title_color=111111&text_color=444444&langs_count=8" />
-  <img height="175" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirazadii&layout=compact&hide_border=true" />
-</picture>
+<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=amirazadii&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
 
 <br /><br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amirazadii&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A7A7A7&dates=777777" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=amirazadii&hide_border=true&background=00000000&ring=111111&fire=111111&currStreakNum=111111&sideNums=111111&currStreakLabel=111111&sideLabels=444444&dates=777777" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=amirazadii&hide_border=true" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=amirazadii&theme=transparent&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -113,11 +101,7 @@ Currently, I work mostly around modern web applications, distributed services, e
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amirazadii&bg_color=00000000&color=ffffff&line=8a8a8a&point=ffffff&area=true&area_color=333333&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amirazadii&bg_color=00000000&color=111111&line=555555&point=111111&area=true&area_color=dddddd&hide_border=true" />
-  <img width="100%" alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=amirazadii&theme=github-compact&hide_border=true" />
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amirazadii&theme=github-compact&hide_border=true&area=true&days=31" alt="GitHub activity graph" />
 
 </div>
 
