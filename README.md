@@ -112,30 +112,25 @@ Currently, I work mostly around modern web applications, distributed services, e
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirazadii/amirazadii/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirazadii/amirazadii/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/amirazadii/amirazadii/output/github-snake.svg" />
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/amirazadii/amirazadii/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/amirazadii/amirazadii/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/amirazadii/amirazadii/output/github-contribution-grid-snake.svg"
+  />
+
 </picture>
 
 </div>
-
-<br />
-
-## `> engineering_interests`
-
-<div align="center">
-
-`Angular Architecture` · `.NET` · `ASP.NET Core` · `gRPC`
-
-`Microservices` · `Clean Architecture` · `Distributed Systems`
-
-`Docker` · `Kubernetes` · `Azure` · `CI/CD` · `Linux`
-
-`System Design` · `Performance` · `Developer Experience`
-
-</div>
-
-<br />
 
 ## `> selected_work`
 
